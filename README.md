@@ -2,7 +2,7 @@
 
 Exhaustive inference-time layer duplication sweep on Qwen3-4B (36 layers), replicating and extending [David Noel Ng's RYS methodology](https://github.com/dnhkng/RYS) at 4B scale on a single RTX 3090.
 
-**Blog post**: [One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy](https://austinsnerdythings.com/?p=9962)
+**Blog post**: [One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy](https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/)
 
 ## Key Findings
 
